@@ -1,0 +1,40 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+header {
+  text-align: center;
+}
+header a {
+  padding: 20px 10px;
+}
+.wrap {
+  margin: 10px auto;
+  width: 1024px;
+  display: flex;
+}
+h1 {
+  text-align: center;
+  color: gray;
+}
+h2 {
+  padding-left: 10px;
+  color: rgb(127, 145, 127);
+  border-left: 4px solid green;
+}
+article {
+  padding: 20px 0 0 50px;
+}
+a {
+  color: green;
+}
+a:hover {
+  color: gray;
+}
+.fa {
+  margin-right: 10px;
+}
+footer {
+  text-align: center;
+}
